@@ -1,1 +1,1 @@
-web: gunicorn Dean.wsgi
+web: gunicorn onlinequiz.wsgi
